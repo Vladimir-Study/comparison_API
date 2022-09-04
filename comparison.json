@@ -1,0 +1,5 @@
+[
+    {"get_analitic_ozon": ["record_csv", "record_json"]},
+    {"get_orders_ozon": ["record_csv", "record_json"]},
+    {"get_orders_yandex": ["import_one_c", "record_csv", "record_json"]}
+]
